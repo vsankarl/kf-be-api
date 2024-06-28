@@ -15,5 +15,6 @@ The file captures how to run the Kotif backend api.
       - command history is preserved in memory. Need to have a end point to
         get the information over time. Ideally we want to store it in a db or 
         file.
+      - Unit test for the commandProcessor
       
 
